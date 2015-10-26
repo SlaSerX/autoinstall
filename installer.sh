@@ -228,8 +228,9 @@ echo ""
 echo -e "${CCYAN}
 # --------------------------------------------------------------------
 # This is a free shell script under GNU GPL version 3.0 or above
-# Copyright (C) 2005 ReFlectiv project.
-# Feedback/comment/suggestions : http://www.reflectiv.net/
+# Copyright (C) 2015 LinuxHelps project.
+# Feedback/comment/suggestions : http://linuxhelps.net/
+# Author Ivan Bachvarov a.k.a SlaSerX
 # -------------------------------------------------------------------------
 # This script automatically set up a new *Debian* server (IMPORTANT : Debian!), by doing these actions :
 #
